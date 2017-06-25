@@ -1,0 +1,11 @@
+#!/bin/sh
+## wsh.sh for aze in /home/benoit.pingris/delivery/synthesis/ADM_projTester_2016/dir
+## 
+## Made by benoit pingris
+## Login   <benoit.pingris@epitech.net>
+## 
+## Started on  Fri Jun 23 16:48:52 2017 benoit pingris
+## Last update Fri Jun 23 16:48:53 2017 benoit pingris
+##
+
+echo coucou
